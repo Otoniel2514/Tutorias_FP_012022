@@ -11,17 +11,17 @@ int main(){
 
     //Pedirle los datos al usuario
     cout<<endl;
-    cout<<"Ingrese un numero entero: ";
+    cout<<"Ingrese un numero entero: "<<endl;
     cin>>number;
-    cout<<"Ingrese una palabra: ";
+    cout<<"Ingrese una palabra: "<<endl;
     cin>>word;
-    cout<<"Ingrese un caracter: ";
+    cout<<"Ingrese un caracter: "<<endl;
     cin>>h;
-    cout<<"Ingrese un numero decimal: ";
+    cout<<"Ingrese un numero decimal: "<<endl;
     cin>>numbers;
-    cout<<"Ingrese un numero decimal: ";
+    cout<<"Ingrese un numero decimal: "<<endl;
     cin>>n;
-
+    
     return 0;
 
 };
